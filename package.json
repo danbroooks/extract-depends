@@ -1,0 +1,12 @@
+{
+  "name": "extract-depends",
+  "version": "0.0.1",
+  "description": "Extract dependencies from a given entry file",
+  "main": "index.js",
+  "author": "Dan Brooks",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.16.4",
+    "precinct": "^3.4.0"
+  }
+}
